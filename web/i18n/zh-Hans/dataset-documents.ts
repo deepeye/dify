@@ -52,7 +52,7 @@ const translation = {
         tip: '您可以上传文件，从网站同步，或者从网络应用程序（如概念、GitHub 等）同步。',
       },
       sync: {
-        tip: 'Dify 会定期从您的 Notion 中下载文件并完成处理。',
+        tip: 'Deepeye 会定期从您的 Notion 中下载文件并完成处理。',
       },
     },
     delete: {
